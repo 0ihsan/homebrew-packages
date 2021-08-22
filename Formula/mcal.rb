@@ -5,6 +5,7 @@ class Mcal < Formula
   url "https://github.com/ihsanturk/mcal/archive/refs/tags/#{version}.tar.gz"
   sha256 "536942e26838acbd779913f9a0eb6ee93a1a5a335035288dfebb215bb1809cdb"
   license "MIT"
+  head "https://github.com/ihsanturk/mcal.git"
 
   def install
     system "make", "install", "prefix=#{prefix}"
