@@ -1,9 +1,9 @@
 class Mcal < Formula
   desc "Manage macOS Calendar from command line interface."
   homepage "https://github.com/ihsanturk/mcal"
-  version "v1.1.6"
-  url "https://github.com/ihsanturk/mcal/archive/refs/tags/#{version}.tar.gz"
-  sha256 "1e6f3876f4f31aa0f463f4de7ba88c570e8840bc2bc8e1ae40cb78648bdea0bf"
+  version "v1.1.7"
+  url "https://github.com/0ihsan/mcal/archive/refs/tags/#{version}.tar.gz"
+  sha256 "4197e6b9fe10c6da3caf817bbfcff6e63f065d4d495709270fb5f895563ac02b"
   license "MIT"
   head "https://github.com/ihsanturk/mcal.git"
 
